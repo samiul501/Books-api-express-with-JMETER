@@ -42,8 +42,8 @@ This project demonstrates CRUD operations, database integration, and Docker depl
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/node-express-books-api.git
-cd node-express-books-api
+git clone https://github.com/samiul501/Books-api-express-with-JMETER.git
+cd Books-api-express-with-JMETER/node-express-api-books-master
 ```
 
 ### 2. Install Dependencies
